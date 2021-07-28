@@ -4,7 +4,6 @@ import numpy as np
 import time
 import os
 from secret import API
-
 # activate virtualenv if necessary
 
 api_key = API # Make your own api key using Google Cloud Console make it specific for places
